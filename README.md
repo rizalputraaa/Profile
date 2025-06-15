@@ -14,11 +14,11 @@ I'm passionate about technology, open source, and building impactful solutions. 
 
 ## 🛠️ Tech Stack
 - **Languages:**  
-  - JavaScript | TypeScript | Python | [Add yours!]
+  - JavaScript | TypeScript | Python |
 - **Frameworks & Tools:**  
-  - React | Node.js | Express | [Add yours!]
+  - React | Node.js | Express | 
 - **Others:**  
-  - Git | Docker | CI/CD | [Add yours!]
+  - Git | Docker | CI/CD | 
 
 ---
 
